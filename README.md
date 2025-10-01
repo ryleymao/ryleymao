@@ -1,13 +1,11 @@
-<!-- Profile README for ryleymao — Midnight Green Full-Stack vibe -->
-<!-- No experience or project listings per request -->
+
+<!-- banner -->
+<p align="center">
+  <img src="https://images.unsplash.com/photo-1711477761184-99eb631ea26c?q=80&w=2854&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Gojo Satoru — Domain Expansion" width="820">
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3200&pause=900&color=01E0B8&center=true&vCenter=true&width=880&lines=Ryley+Mao;Backend+%E2%80%A2+Full-Stack+in+progress;APIs%2C+data%2C+and+React+UIs" alt="typing intro" />
-</p>
-
-<!-- Gojo Domain Expansion banner -->
-<p align="center">
-  <img src="https://images.unsplash.com/photo-1711477761184-99eb631ea26c?q=80&w=2854&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Gojo Satoru — Domain Expansion" width="820">
 </p>
 
 <p align="center">
