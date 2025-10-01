@@ -7,7 +7,8 @@
 
 <!-- Gojo Domain Expansion banner -->
 <p align="center">
-  <img src="https://media1.tenor.com/m/_bvpF04vG_QAAAAd/satoru-gojo-domain-expansion.gif" alt="Gojo Satoru — Domain Expansion" width="820">
+  <img src="https://media1.tenor.com/m/tOLWu28yMFUAAAAC/abstract-banner-gift.gif" alt="Gojo Satoru — Domain Expansion" width="820">
+  
 </p>
 
 <p align="center">
