@@ -7,8 +7,7 @@
 
 <!-- Gojo Domain Expansion banner -->
 <p align="center">
-  <img src="https://media1.tenor.com/m/tOLWu28yMFUAAAAC/abstract-banner-gift.gif" alt="Gojo Satoru — Domain Expansion" width="820">
-  
+  <img src="https://images.unsplash.com/photo-1711477761184-99eb631ea26c?q=80&w=2854&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Gojo Satoru — Domain Expansion" width="820">
 </p>
 
 <p align="center">
@@ -83,3 +82,6 @@
   <a href="https://github.com/ryleymao"><img src="https://img.shields.io/badge/GitHub-Follow-CFE8E1?style=for-the-badge&labelColor=0D1B1E"></a>
 </p>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&height=120&color=0:0EA5E9,100:01E0B8&section=footer&text=%20" />
+</p>
