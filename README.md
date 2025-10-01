@@ -80,6 +80,3 @@
   <a href="https://github.com/ryleymao"><img src="https://img.shields.io/badge/GitHub-Follow-CFE8E1?style=for-the-badge&labelColor=0D1B1E"></a>
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&height=120&color=0:0EA5E9,100:01E0B8&section=footer&text=%20" />
-</p>
