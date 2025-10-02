@@ -22,14 +22,6 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="mailto:rymao_@outlook.com">
-    <img src="https://img.shields.io/badge/📧_rymao__@outlook.com-0D1B1E?style=for-the-badge&logo=microsoft-outlook&logoColor=01E0B8">
-  </a>
-  <a href="https://linkedin.com/in/ryley-mao">
-    <img src="https://img.shields.io/badge/💼_LinkedIn-0D1B1E?style=for-the-badge&logo=linkedin&logoColor=0EA5E9">
-  </a>
-</p>
 
 <br>
 
