@@ -7,7 +7,7 @@
 <div align="center">
 
 <h1>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=01E0B8&center=true&vCenter=true&width=500&lines=%F0%9F%91%8B+Ryley+Mao;Software+Engineer;Data+Engineer;Machine+Learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=01E0B8&center=true&vCenter=true&width=500&lines=Ryley+Mao;Software+Engineer;Data+Engineer;Machine+Learning" alt="Typing SVG" />
 </h1>
 
 </div>
@@ -160,9 +160,5 @@
   <img src="https://img.shields.io/badge/GitHub-Follow-7DD3FC?style=for-the-badge&labelColor=0D1B1E&logo=github&logoColor=white">
 </a>
 
-<br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=100&section=footer" width="100%">
-
-</div>
 
