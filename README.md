@@ -4,9 +4,13 @@
   <img src="https://images.unsplash.com/photo-1711477761184-99eb631ea26c?q=80&w=2854&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Banner" width="100%" style="border-radius: 10px;">
 </div>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2500&pause=1000&color=01E0B8&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Ryley+Mao+%F0%9F%91%8B;Backend+%2B+Data+Engineer;Building+APIs+%7C+ML+Pipelines+%7C+Cloud+Systems;Python+%E2%80%A2+FastAPI+%E2%80%A2+PyTorch+%E2%80%A2+AWS;Shipping+Production+Code+Daily+%F0%9F%9A%80" alt="Typing SVG" />
-</h1>
+<div align="center">
+
+# 👋 Hey, I'm Ryley Mao
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=01E0B8&center=true&vCenter=true&width=600&lines=Backend+%2B+Data+Engineer;Python+%7C+FastAPI+%7C+PyTorch;Building+scalable+APIs+and+ML+systems;Always+shipping+%F0%9F%9A%80" alt="Typing SVG" />
+
+</div>
 
 <p align="center">
   <a href="https://github.com/ryleymao">
@@ -87,25 +91,16 @@
 
 <br>
 
-## ⚡ Contribution Snake
+## 📈 Coding Activity
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ryleymao/ryleymao/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ryleymao/ryleymao/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ryleymao/ryleymao/output/github-contribution-grid-snake.svg">
-  </picture>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ryleymao&theme=nord_dark" alt="Profile Details" />
 </div>
 
-<br>
-
-## 💻 Recent Activity
-
 <div align="center">
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ryleymao&theme=nord_dark&utcOffset=8" height="200" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ryleymao&theme=nord_dark" height="200" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ryleymao&theme=nord_dark" height="200" />
 </div>
 
 <br>
