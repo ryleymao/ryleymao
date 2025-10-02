@@ -5,7 +5,7 @@
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=1000&color=01E0B8&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Ryley+Mao+%F0%9F%91%8B;Backend+Developer;Full-Stack+in+Progress;Building+APIs+%26+React+UIs" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2500&pause=1000&color=01E0B8&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Ryley+Mao+%F0%9F%91%8B;Backend+%2B+Data+Engineer;Building+APIs+%7C+ML+Pipelines+%7C+Cloud+Systems;Python+%E2%80%A2+FastAPI+%E2%80%A2+PyTorch+%E2%80%A2+AWS;Shipping+Production+Code+Daily+%F0%9F%9A%80" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -87,10 +87,25 @@
 
 <br>
 
-## 🏆 GitHub Trophies
+## ⚡ Contribution Snake
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ryleymao&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ryleymao/ryleymao/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ryleymao/ryleymao/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ryleymao/ryleymao/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+<br>
+
+## 💻 Recent Activity
+
+<div align="center">
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
 </div>
 
 <br>
