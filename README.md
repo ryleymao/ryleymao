@@ -7,11 +7,6 @@
 <div align="center">
 
 # 👋 Ryley Mao
-
-**Backend + Data Engineer**
-Python | FastAPI | PyTorch | SQL
-Machine Learning
-
 </div>
 
 <p align="center">
