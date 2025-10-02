@@ -34,7 +34,7 @@
 
 <br>
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -63,14 +63,14 @@
 
 <br>
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=ryleymao&theme=dark&hide_border=true&background=0D1B1E&ring=01E0B8&fire=0EA5E9&currStreakLabel=CFE8E1&sideNums=CFE8E1&sideLabels=7DD3FC&stroke=01E0B8&dates=7DD3FC" height="180" />
   <img src="https://github-readme-stats.vercel.app/api?username=ryleymao&show_icons=true&hide_border=true&bg_color=0D1B1E&title_color=01E0B8&text_color=CFE8E1&icon_color=0EA5E9&rank_icon=github" height="180" />
 </div>
 
-## ⚡ Contribution Snake
+##
 
 <div align="center">
   <picture>
@@ -84,7 +84,7 @@
 
 <br>
 
-## 🧭 How I Build
+## How I Build
 
 <div align="center">
 
@@ -138,7 +138,7 @@
 
 <div align="center">
 
-## 💬 Let's Connect
+## Let's Connect
 
 <a href="mailto:rymao_@outlook.com">
   <img src="https://img.shields.io/badge/Email-rymao__@outlook.com-0EA5E9?style=for-the-badge&labelColor=0D1B1E&logo=microsoft-outlook&logoColor=white">
@@ -156,7 +156,7 @@
 
 ---
 
-## 🏷️ Complete Tech Stack
+## 
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
