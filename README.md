@@ -105,26 +105,6 @@ Machine Learning
 
 <br>
 
-## 📈 Coding Activity
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ryleymao&theme=nord_dark" alt="Profile Details" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ryleymao&theme=nord_dark&utcOffset=8" height="200" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ryleymao&theme=nord_dark" height="200" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ryleymao&theme=nord_dark" height="200" />
-</div>
-
-<br>
-
-## 🎯 3D Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ryleymao&custom_title=3D%20Contribution%20Calendar&bg_color=0D1B1E&color=01E0B8&line=0EA5E9&point=7DD3FC&area_color=01E0B8&area=true&hide_border=true&height=300" />
-</div>
-
 <br>
 
 ## 🧭 How I Build
