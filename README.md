@@ -6,9 +6,11 @@
 
 <div align="center">
 
-# 👋 Hey, I'm Ryley Mao
+# 👋 Ryley Mao
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=01E0B8&center=true&vCenter=true&width=600&lines=Backend+%2B+Data+Engineer;Python+%7C+FastAPI+%7C+PyTorch;Building+scalable+APIs+and+ML+systems;Always+shipping+%F0%9F%9A%80" alt="Typing SVG" />
+**Backend + Data Engineer**
+Python | FastAPI | PyTorch | SQL
+Machine Learning
 
 </div>
 
@@ -91,6 +93,18 @@
 
 <br>
 
+## ⚡ Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ryleymao/ryleymao/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ryleymao/ryleymao/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ryleymao/ryleymao/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+<br>
+
 ## 📈 Coding Activity
 
 <div align="center">
@@ -101,6 +115,14 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ryleymao&theme=nord_dark&utcOffset=8" height="200" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ryleymao&theme=nord_dark" height="200" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ryleymao&theme=nord_dark" height="200" />
+</div>
+
+<br>
+
+## 🎯 3D Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ryleymao&custom_title=3D%20Contribution%20Calendar&bg_color=0D1B1E&color=01E0B8&line=0EA5E9&point=7DD3FC&area_color=01E0B8&area=true&hide_border=true&height=300" />
 </div>
 
 <br>
