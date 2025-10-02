@@ -116,7 +116,7 @@
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 **Backend & APIs**
 - FastAPI + REST APIs
@@ -125,18 +125,19 @@
 - Pytest for testing
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 **Data & ML**
-- NumPy, Pandas
-- PyTorch, scikit-learn
-- Matplotlib for viz
-- Data pipelines
+- NumPy, Pandas for data
+- PyTorch for deep learning
+- scikit-learn for ML models
+- Matplotlib for visualization
+- Data pipelines & ETL
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 **DevOps & Cloud**
 - Docker containers
@@ -145,7 +146,7 @@
 - Git version control
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 **Development**
 - Linux environment
