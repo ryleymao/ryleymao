@@ -7,6 +7,8 @@
 <div align="center">
 
 # 👋 Ryley Mao
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=01E0B8&center=true&vCenter=true&width=400&lines=Software+Engineer;Data+Engineer;Machine+Learning" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -42,29 +44,49 @@
 
 <br>
 
+## 💻 Live Coding
+
+<div align="center">
+
+```python
+# Building production-ready systems
+def engineer():
+    skills = {
+        "languages": ["Python", "Java", "C++", "SQL"],
+        "backend": ["FastAPI", "REST APIs", "PostgreSQL"],
+        "ml": ["PyTorch", "scikit-learn", "Pandas", "NumPy"],
+        "cloud": ["AWS", "GCP", "Docker"]
+    }
+    return "Shipping clean code daily 🚀"
+```
+
+</div>
+
+<br>
+
 ## 🛠️ Tech Stack
 
 <div align="center">
 
 ### Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,postgres" height="50" />
+  <a href="#"><img src="https://skillicons.dev/icons?i=python,java,cpp,postgres" height="50" /></a>
 </p>
 
 ### Frameworks & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=fastapi,docker,git,linux,aws,gcp" height="50" />
+  <a href="#"><img src="https://skillicons.dev/icons?i=fastapi,docker,git,linux,aws,gcp" height="50" /></a>
 </p>
 
 ### Libraries & ML
 <p>
-  <img src="https://skillicons.dev/icons?i=pytorch,sklearn" height="50" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" height="50" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="50" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" height="50" />
-  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white" height="50" />
-  <img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white" height="50" />
-  <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" height="50" />
+  <a href="#"><img src="https://skillicons.dev/icons?i=pytorch,sklearn" height="50" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" height="50" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="50" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" height="50" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white" height="50" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white" height="50" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" height="50" /></a>
 </p>
 
 </div>
