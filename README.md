@@ -45,19 +45,25 @@
 
 <div align="center">
 
-### Backend & Data
+### Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,docker" height="50" />
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,postgres" height="50" />
 </p>
 
-### Frontend & UI
+### Frameworks & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=react,typescript,nextjs,vite,tailwind" height="50" />
+  <img src="https://skillicons.dev/icons?i=fastapi,docker,git,linux,aws,gcp" height="50" />
 </p>
 
-### Cloud & DevOps
+### Libraries & ML
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,gcp,git,linux" height="50" />
+  <img src="https://skillicons.dev/icons?i=pytorch,sklearn" height="50" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" height="50" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="50" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" height="50" />
+  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white" height="50" />
+  <img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white" height="50" />
+  <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" height="50" />
 </p>
 
 </div>
@@ -97,38 +103,40 @@
 <tr>
 <td width="50%">
 
-**Frontend**
-- React + TypeScript
-- Next.js or Vite
-- Tailwind, shadcn/ui
+**Backend & APIs**
+- FastAPI + REST APIs
+- PostgreSQL + SQLAlchemy
+- Pydantic for validation
+- Pytest for testing
 
 </td>
 <td width="50%">
 
-**Backend**
-- FastAPI, Postgres
-- SQLAlchemy, Pytest
-- Docker for local parity
+**Data & ML**
+- NumPy, Pandas
+- PyTorch, scikit-learn
+- Matplotlib for viz
+- Data pipelines
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-**Developer Experience**
-- Pre-commit hooks
-- Ruff/Black formatting
-- Conventional commits
-- Small, focused PRs
+**DevOps & Cloud**
+- Docker containers
+- AWS (EC2, S3, RDS)
+- GCP (BigQuery)
+- Git version control
 
 </td>
 <td width="50%">
 
-**Operations**
-- `.env.example` templates
-- Makefile or `scripts/`
-- Basic observability
-- Scale when needed
+**Development**
+- Linux environment
+- Clean code practices
+- Daily commits
+- Production-ready focus
 
 </td>
 </tr>
