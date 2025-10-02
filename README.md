@@ -87,12 +87,6 @@ Machine Learning
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryleymao&layout=compact&hide_border=true&bg_color=0D1B1E&title_color=01E0B8&text_color=CFE8E1&icon_color=0EA5E9&langs_count=6" width="400" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ryleymao&bg_color=0D1B1E&color=CFE8E1&line=0EA5E9&point=01E0B8&area=true&hide_border=true&custom_title=Contribution%20Graph" />
-</div>
-
-<br>
-
 ## ⚡ Contribution Snake
 
 <div align="center">
