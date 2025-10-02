@@ -35,7 +35,6 @@
 
 <div align="center">
 
-### 🚀 What I'm Into
 
 <img src="https://img.shields.io/badge/🎯_Focus-Backend%20%26%20Data%20Engineering-0EA5E9?style=for-the-badge&labelColor=0D1B1E">
 <img src="https://img.shields.io/badge/📚_Learning-React-01E0B8?style=for-the-badge&labelColor=0D1B1E">
