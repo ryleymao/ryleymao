@@ -6,9 +6,10 @@
 
 <div align="center">
 
-# 👋 Ryley Mao
+<h1>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=01E0B8&center=true&vCenter=true&width=500&lines=%F0%9F%91%8B+Ryley+Mao;Software+Engineer;Data+Engineer;Machine+Learning" alt="Typing SVG" />
+</h1>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=01E0B8&center=true&vCenter=true&width=400&lines=Software+Engineer;Data+Engineer;Machine+Learning" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -36,29 +37,8 @@
 
 ### 🚀 What I'm Into
 
-<img src="https://img.shields.io/badge/🎯_Focus-Backend%20%26%20Full--Stack-0EA5E9?style=for-the-badge&labelColor=0D1B1E">
-<img src="https://img.shields.io/badge/📚_Learning-React%20%2B%20TypeScript-01E0B8?style=for-the-badge&labelColor=0D1B1E">
-<img src="https://img.shields.io/badge/⚡_Habit-Daily%20Commits-7DD3FC?style=for-the-badge&labelColor=0D1B1E">
-
-</div>
-
-<br>
-
-## 💻 Live Coding
-
-<div align="center">
-
-```python
-# Building production-ready systems
-def engineer():
-    skills = {
-        "languages": ["Python", "Java", "C++", "SQL"],
-        "backend": ["FastAPI", "REST APIs", "PostgreSQL"],
-        "ml": ["PyTorch", "scikit-learn", "Pandas", "NumPy"],
-        "cloud": ["AWS", "GCP", "Docker"]
-    }
-    return "Shipping clean code daily 🚀"
-```
+<img src="https://img.shields.io/badge/🎯_Focus-Backend%20%26%20Data%20Engineering-0EA5E9?style=for-the-badge&labelColor=0D1B1E">
+<img src="https://img.shields.io/badge/📚_Learning-React-01E0B8?style=for-the-badge&labelColor=0D1B1E">
 
 </div>
 
@@ -98,10 +78,6 @@ def engineer():
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=ryleymao&theme=dark&hide_border=true&background=0D1B1E&ring=01E0B8&fire=0EA5E9&currStreakLabel=CFE8E1&sideNums=CFE8E1&sideLabels=7DD3FC&stroke=01E0B8&dates=7DD3FC" height="180" />
   <img src="https://github-readme-stats.vercel.app/api?username=ryleymao&show_icons=true&hide_border=true&bg_color=0D1B1E&title_color=01E0B8&text_color=CFE8E1&icon_color=0EA5E9&rank_icon=github" height="180" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryleymao&layout=compact&hide_border=true&bg_color=0D1B1E&title_color=01E0B8&text_color=CFE8E1&icon_color=0EA5E9&langs_count=6" width="400" />
 </div>
 
 ## ⚡ Contribution Snake
