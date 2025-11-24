@@ -6,7 +6,7 @@
 <div align="center">
 
 <h1>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=01E0B8&center=true&vCenter=true&width=500&lines=Ryley+Mao;Software+Engineer;Data+Engineer;Machine+Learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=01E0B8&center=true&vCenter=true&width=500&lines=Ryley+Mao;Software+Engineer;Backend+%26+AI/ML" alt="Typing SVG" />
 </h1>
 
 </div>
