@@ -26,8 +26,9 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/🎯_Focus-Backend%20%26%20Data%20Engineering-0EA5E9?style=for-the-badge&labelColor=0D1B1E">
-<img src="https://img.shields.io/badge/📚_Learning-React%20%2B%20TypeScript-01E0B8?style=for-the-badge&labelColor=0D1B1E">
+<img src="https://img.shields.io/badge/🎯_Focus-Scalable%20Systems%20%26%20AI%20Applications-0EA5E9?style=for-the-badge&labelColor=0D1B1E">
+<img src="https://img.shields.io/badge/🌐_Website-rymao.info-01E0B8?style=for-the-badge&labelColor=0D1B1E">
+<img src="https://img.shields.io/badge/📍_Location-NYC-7DD3FC?style=for-the-badge&labelColor=0D1B1E">
 
 </div>
 
@@ -37,22 +38,31 @@
 
 <div align="center">
 
-### Languages
+### AI/ML & LLM Tools
 <p>
-  <a href="#"><img src="https://skillicons.dev/icons?i=python,java,cpp,postgres" height="50" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" height="50" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" height="50" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Claude-CC9B7A?style=for-the-badge&logo=anthropic&logoColor=white" height="50" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=pytorch" height="50" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/RAG-00A98F?style=for-the-badge&logo=ai&logoColor=white" height="50" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Vector_DBs-FF6B6B?style=for-the-badge&logo=database&logoColor=white" height="50" /></a>
 </p>
 
-### Frameworks & Tools
+### Languages & Databases
 <p>
-  <a href="#"><img src="https://skillicons.dev/icons?i=fastapi,docker,git,linux,aws,gcp" height="50" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=python,nodejs,java,cpp,postgres,redis" height="50" /></a>
 </p>
 
-### Libraries & ML
+### Backend & Cloud
 <p>
-  <a href="#"><img src="https://skillicons.dev/icons?i=pytorch,sklearn" height="50" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=fastapi,kafka,docker,aws,gcp" height="50" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Microservices-FF6F00?style=for-the-badge&logo=microgenetics&logoColor=white" height="50" /></a>
+</p>
+
+### Data Science & Testing
+<p>
   <a href="#"><img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" height="50" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="50" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" height="50" /></a>
   <a href="#"><img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white" height="50" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white" height="50" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" height="50" /></a>
@@ -91,41 +101,44 @@
 <tr>
 <td width="50%" valign="top">
 
-**Backend & APIs**
-- FastAPI + REST APIs
-- PostgreSQL + SQLAlchemy
-- Pydantic for validation
-- Pytest for testing
+**AI/ML Applications**
+- LangChain for LLM orchestration
+- OpenAI & Claude APIs
+- RAG with vector databases
+- AI agents & autonomous systems
+- Semantic search & embeddings
 
 </td>
 <td width="50%" valign="top">
 
-**Data & ML**
-- NumPy, Pandas for data
-- PyTorch for deep learning
-- scikit-learn for ML models
-- Matplotlib for visualization
-- Data pipelines & ETL
+**Backend & APIs**
+- FastAPI + Node.js REST APIs
+- PostgreSQL + Redis caching
+- Kafka for event streaming
+- Microservices architecture
+- SQLAlchemy + Pydantic
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-**DevOps & Cloud**
-- Docker containers
-- AWS (EC2, S3, RDS)
-- GCP (BigQuery)
-- Git version control
+**Cloud & DevOps**
+- Docker containerization
+- AWS (EC2, S3, RDS, Lambda)
+- GCP (Cloud Run, BigQuery)
+- CI/CD pipelines
+- Serverless architectures
 
 </td>
 <td width="50%" valign="top">
 
-**Development**
-- Linux environment
-- Clean code practices
-- Daily commits
-- Production-ready focus
+**Data Engineering**
+- ETL pipelines & orchestration
+- NumPy, Pandas for analysis
+- PyTorch for deep learning
+- Real-time data processing
+- Production ML systems
 
 </td>
 </tr>
@@ -139,6 +152,9 @@
 
 ## Let's Connect
 
+<a href="https://rymao.info">
+  <img src="https://img.shields.io/badge/🌐_Portfolio-rymao.info-7DD3FC?style=for-the-badge&labelColor=0D1B1E">
+</a>
 <a href="mailto:rymao_@outlook.com">
   <img src="https://img.shields.io/badge/Email-rymao__@outlook.com-0EA5E9?style=for-the-badge&labelColor=0D1B1E&logo=microsoft-outlook&logoColor=white">
 </a>
@@ -154,34 +170,6 @@
 <br>
 
 ---
-
-## 
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white)
-![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white)
-![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=python&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-
-<br>
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=120&section=footer" width="100%">
