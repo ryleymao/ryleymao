@@ -39,7 +39,6 @@
 
 <div align="center">
 
-### AI/ML & LLM Tools
 <p>
   <a href="#"><img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" height="50" /></a>
   <a href="#"><img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" height="50" /></a>
@@ -49,18 +48,15 @@
   <a href="#"><img src="https://img.shields.io/badge/Vector_DBs-FF6B6B?style=for-the-badge&logo=database&logoColor=white" height="50" /></a>
 </p>
 
-### Languages & Databases
 <p>
   <a href="#"><img src="https://skillicons.dev/icons?i=python,nodejs,java,cpp,postgres,redis" height="50" /></a>
 </p>
 
-### Backend & Cloud
 <p>
   <a href="#"><img src="https://skillicons.dev/icons?i=fastapi,kafka,docker,aws,gcp" height="50" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Microservices-FF6F00?style=for-the-badge&logo=microgenetics&logoColor=white" height="50" /></a>
 </p>
 
-### Data Science & Testing
 <p>
   <a href="#"><img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" height="50" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="50" /></a>
