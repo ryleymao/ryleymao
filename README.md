@@ -32,29 +32,10 @@
 
 <div align="center">
 <p>
-  <a href="#"><img src="https://img.shields.io/badge/LangChain-1E293B?style=for-the-badge&logo=langchain&logoColor=white" height="50" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/OpenAI-1E3A8A?style=for-the-badge&logo=openai&logoColor=white" height="50" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Claude-64748B?style=for-the-badge&logo=anthropic&logoColor=white" height="50" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=pytorch" height="50" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/RAG-1E40AF?style=for-the-badge&logo=ai&logoColor=white" height="50" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Vector_DBs-64748B?style=for-the-badge&logo=database&logoColor=white" height="50" /></a>
-</p>
-
-<p>
-  <a href="#"><img src="https://skillicons.dev/icons?i=python,nodejs,java,cpp,postgres,redis" height="50" /></a>
-</p>
-
-<p>
-  <a href="#"><img src="https://skillicons.dev/icons?i=fastapi,kafka,docker,aws,gcp" height="50" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Microservices-1E40AF?style=for-the-badge&logo=microgenetics&logoColor=white" height="50" /></a>
-</p>
-
-<p>
-  <a href="#"><img src="https://img.shields.io/badge/NumPy-1E293B?style=for-the-badge&logo=numpy&logoColor=white" height="50" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Pandas-1E3A8A?style=for-the-badge&logo=pandas&logoColor=white" height="50" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/SQLAlchemy-1E40AF?style=for-the-badge&logo=sqlalchemy&logoColor=white" height="50" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Pydantic-64748B?style=for-the-badge&logo=pydantic&logoColor=white" height="50" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Pytest-1E3A8A?style=for-the-badge&logo=pytest&logoColor=white" height="50" /></a>
+  <!-- Skills updated from resume -->
+  <a href="#"><img src="https://skillicons.dev/icons?i=python,java,nodejs,express,fastapi,springboot" height="50" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,kafka" height="50" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=docker,aws,gcp,git" height="50" /></a>
 </p>
 </div>
 
@@ -65,4 +46,81 @@
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=ryleymao&theme=dark&hide_border=true&background=1E293B&ring=1E3A8A&fire=1E40AF&currStreakLabel=64748B&sideNums=64748B&sideLabels=3B82F6&stroke=1E3A8A&dates=3B82F6" height="180" />
   <img src="https://github-readme-stats.vercel.app/api?username=ryleymao&show_icons=true&hide_border=true&bg_color=1E293B&title_color=1E3A8A&text_color=64748B&icon_color=1E40AF&rank_icon=github" height="180" />
+</div>
+
+<br>
+
+## How I Build
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**Backend & APIs**
+- FastAPI + Spring Boot + Node.js REST APIs
+- MySQL + PostgreSQL + MongoDB + Redis caching
+- Kafka for event streaming
+- Microservices architecture
+- JWT, RBAC, Idempotency, Retries
+- Logging & Monitoring (Prometheus, Grafana)
+
+</td>
+<td width="50%" valign="top">
+
+**Cloud & DevOps**
+- Docker containerization
+- AWS (EC2, S3, Lambda)
+- GCP (Cloud Run, Pub/Sub)
+- CI/CD pipelines
+- NGINX
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**AI/ML & Projects**
+- Distributed Task Orchestrator | FastAPI, PostgreSQL, Redis, Kafka, Docker, AWS, NGINX
+- ResuMAX | FastAPI, PostgreSQL, Firebase Auth, AWS, OpenAI LLM, Docker
+- NYC Subway ETA | Spring Boot, Kafka, Redis, Docker, GCP
+- RAG, LangChain, LLM orchestration, AI agents
+
+</td>
+<td width="50%" valign="top">
+
+**Data Engineering**
+- ETL pipelines & orchestration
+- Python, NumPy, Pandas for analysis
+- PyTorch for deep learning
+- Real-time data processing
+- Production ML systems
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br>
+
+## Let's Connect
+
+<div align="center">
+<a href="https://rymao.info">
+  <img src="https://img.shields.io/badge/Portfolio-rymao.info-1E3A8A?style=for-the-badge&labelColor=1E293B">
+</a>
+<a href="https://linkedin.com/in/ryley-mao">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-1E3A8A?style=for-the-badge&labelColor=1E293B&logo=linkedin&logoColor=white">
+</a>
+<a href="https://github.com/ryleymao">
+  <img src="https://img.shields.io/badge/GitHub-Follow-1E40AF?style=for-the-badge&labelColor=1E293B&logo=github&logoColor=white">
+</a>
+</div>
+
+<br>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=120&section=footer" width="100%">
 </div>
