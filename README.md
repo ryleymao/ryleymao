@@ -5,7 +5,7 @@
 
 <div align="center">
 <h1>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=1E3A8A&center=true&vCenter=true&width=500&lines=Ryley+Mao;Software+Engineer;Backend+%26+AI/ML" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=1E3A8A&center=true&vCenter=true&width=500&lines=Ryley+Mao;Software+Engineer;Backend+%26+Cloud" alt="Typing SVG" />
 </h1>
 </div>
 
@@ -31,14 +31,12 @@
 <br>
 
 <div align="center">
-
 <p>
-  <!-- Skills badges updated from resume -->
+  <!-- Tech stack badges, accurate to resume -->
   <a href="#"><img src="https://skillicons.dev/icons?i=python,java,nodejs,express,fastapi,springboot" height="50" /></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,kafka" height="50" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=docker,aws,gcp,git" height="50" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=docker,aws,gcp,git,nginx" height="50" /></a>
 </p>
-
 </div>
 
 <br>
@@ -62,12 +60,9 @@
 
 <br>
 
-<br>
-
 ## How I Build
 
 <div align="center">
-
 <table>
 <tr>
 <td width="50%" valign="top">
@@ -95,11 +90,10 @@
 <tr>
 <td width="50%" valign="top">
 
-**AI/ML & Projects**
+**Projects**
 - Distributed Task Orchestrator | FastAPI, PostgreSQL, Redis, Kafka, Docker, AWS, NGINX
-- ResuMAX | FastAPI, PostgreSQL, Firebase Auth, AWS, OpenAI LLM, Docker
+- ResuMAX | FastAPI, PostgreSQL, Firebase Auth, AWS, Docker
 - NYC Subway ETA | Spring Boot, Kafka, Redis, Docker, GCP
-- RAG, LangChain, LLM orchestration, AI agents
 
 </td>
 <td width="50%" valign="top">
@@ -114,7 +108,6 @@
 </td>
 </tr>
 </table>
-
 </div>
 
 <br>
