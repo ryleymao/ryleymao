@@ -87,23 +87,8 @@
 
 </td>
 </tr>
-<tr>
-<td width="50%" valign="top">
-
-**Projects**
-- Distributed Task Orchestrator | FastAPI, PostgreSQL, Redis, Kafka, Docker, AWS, NGINX
-- ResuMAX | FastAPI, PostgreSQL, Firebase Auth, AWS, Docker
-- NYC Subway ETA | Spring Boot, Kafka, Redis, Docker, GCP
-
-</td>
-<td width="50%" valign="top">
-
-**Data Engineering**
-- ETL pipelines & orchestration
-- Python, NumPy, Pandas for analysis
-- PyTorch for deep learning
-- Real-time data processing
-- Production ML systems
+</table>
+</div>
 
 </td>
 </tr>
