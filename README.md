@@ -100,9 +100,6 @@
 ## Let's Connect
 
 <div align="center">
-<a href="https://rymao.info">
-  <img src="https://img.shields.io/badge/Portfolio-rymao.info-1E3A8A?style=for-the-badge&labelColor=1E293B">
-</a>
 <a href="https://linkedin.com/in/ryley-mao">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-1E3A8A?style=for-the-badge&labelColor=1E293B&logo=linkedin&logoColor=white">
 </a>
